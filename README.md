@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk Kaniewski</h1>
 <h3 align="center">I want to become Junior Frontend Developer (React). Looking for job opportunities.</h3>
 
-- 🔭 I’m currently working on [My Website](https://github.com/KaniewskiSoftware/my-website)
-
-- 👨‍💻 All of my projects are available at [Personal Homepage](https://kaniewskisoftware.github.io/personal-homepage/)
+- 👨‍💻 Portofolio [Personal Homepage](https://kaniewskisoftware.github.io/personal-homepage/)
 
 - 🔭 My latest project [Movies Browser](https://github.com/KaniewskiSoftware/movies-browser-ts-rq)
 
